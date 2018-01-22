@@ -1,0 +1,30 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz App</string>
+    <string name="submitButton">Submit</string>
+    <string name="title">Welcome to space, the infinite frontier!</string>
+    <string name="questionOne">HEY! Let me ask, what\'s your favorite planet? (pick as many as you want!)</string>
+    <string name="responseOne">Mine\'s the sun! Always has been. I like it because it\'s like the king of planets.</string>
+    <string name="questionTwo">HEY! Have you ever seen an eclipse? You know if you stare at it head on it\'ll burn your eyes out.</string>
+    <string name="responseTwo">I once took a pair of binoculars and stared at the sun for over an hour.</string>
+    <string name="questionThree">HEY! We all know that the moon is not made of green cheese. But what if it were made of BBQ spare ribs, would you eat it then?</string>
+    <string name="responseThree">I know I would. I\'d have seconds and then polish it off with a tall cool budweiser.</string>
+    <string name="questionFour">HEY! How bout this mad cow disease? It was here for a while and then it went away, your thoughts:</string>
+    <string name="responseFour">Geez. I hope I never get it.</string>
+    <string name="questionFive">HEY! What about this? If you had a choice between these, what would it be?</string>
+    <string name="q5one">Getting mad cow disease</string>
+    <string name="q5two">Top scientist in your field</string>
+    <string name="responseFiveA">Oh good, I was worried you\'d choose mad cow.</string>
+    <string name="responseFiveB">Mad cow!</string>
+    <string name="venus">Venus</string>
+    <string name="mars">Mars</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="earth">Earth</string>
+    <string name="saturn">Saturn</string>
+    <string name="mercury">Mercury</string>
+    <string name="uranus">Uranus</string>
+    <string name="neptune">Neptune</string>
+    <string name="theSun">The Sun</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="submitResponse">HEY! You scored <xliff:g id="score">%d</xliff:g> out of 5!!</string>
+</resources>
